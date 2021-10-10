@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "dockerfile-ast": "0.0.18",
+    "dockerfile-ast": "0.3.2",
     "semver": "^6.1.0",
     "tar-stream": "^2.1.0",
     "tslib": "^1"
